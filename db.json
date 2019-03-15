@@ -1,0 +1,156 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "shortDescription":
+        "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations.",
+      "about":
+        "This course concentrates mainly on Javascript based front-end frameworks, and in particular the Angular framework (Currently Ver. 4.x). This course will use Typescript for developing Angular application. Typescript features will be introduced in the context of Angular as part of the exercises. You will also get an introduction to the use of Angular Material and Angular Flex-Layout for responsive UI design. You will be introduced to various aspects of Angular including components, directives and services. You will learn about data binding, Angular router and its use for developing single-page applications. You will also learn about designing both template-driven forms and reactive forms. A quick introduction to Observables, reactive programming and RxJS in the context of Angular is included. You will then learn about Angular support for client-server communication and the use of REST API on the server side. You will use Restangular for communicating with a server supporting the REST API. A quick tour through Angular animation support and Angular testing rounds off the course. You must have either completed the previous course in the specialization on Bootstrap 4, or have a working knowledge of front end web-UI frameworks to be able to navigate this course. Also a good working knowledge of JavaScript, especially ES 5 is strongly recommended.",
+      "level": "Intermediate",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Introduction to HTML5",
+      "shortDescription":
+        "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.",
+      "about":
+        "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. ",
+      "level": "Basic",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "Ruby on Rails: An Introduction",
+      "shortDescription":
+        "Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages",
+      "about":
+        "Did you ever want to build a web application?  Perhaps you even started down that path in a language like Java or C#, when you realized that there was so much “climbing the mountain” that you had to do? Maybe you have heard about web services being all the rage, but thought they were too complicated to integrate into your web application. Or maybe you wondered how deploying web applications to the cloud works, but there was too much to set up just to get going.",
+      "level": "Intermediate",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Game Development",
+      "shortDescription":
+        "Video game development is the process of creating a video game. The effort is undertaken by a game developer, who may range from a single person to an international team dispersed across the globe.",
+      "about":
+        "If you love games and want to learn how to make them, then this course will start you down that path. Making games is a creative and technical art form. In this course you will familiarize yourself with the tools and practices of game development. You will get started developing your own videogames using the industry standard game development tools, including the Unity3D game engine and C#. At the end of the course you will have completed three hands-on projects and will be able to leverage an array of game development techniques to create your own basic games. This course is for individuals interested in becoming a game designer, game artist, or game programmer.",
+      "level": "Basic",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "title": "Java for Android",
+      "shortDescription":
+        "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible",
+      "about":
+        "In particular, this MOOC covers key Java programming language features that control the flow of execution through an app (such as Java’s various looping constructs and conditional statements), enable access to structured data (such as Java's built-in arrays and common classes in the Java Collections Framework, such as ArrayList and HashMap), group related operations and data into classes and interfaces (such as Java's primitive and user-defined types, fields, methods, generic parameters, and exceptions), customize the behavior of existing classes via inheritance and polymorphism (such as subclassing and overriding virtual methods). Learners will apply these Java features in the context of core Android components (such as Activities and basic UI elements) by applying common tools (such as Android Studio) needed to develop Java programs and useful Android apps.  ",
+      "level": "Intermediate",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 6,
+      "title": "Server-side Development with NodeJS, Express and MongoDB",
+      "shortDescription":
+        "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side. ",
+      "about":
+        "This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services.",
+      "level": "Basic",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 7,
+      "title": "Networking and Security in iOS Applications",
+      "shortDescription":
+        "Networking is a process that fosters the exchange of information and ideas among individuals or groups that share a common interest.",
+      "about":
+        "You will learn to extend your knowledge of making iOS apps so that they can securely interact with web services and receive push notifications. You'll learn how to store data securely on a device using Core Data.  You’ll also learn to securely deploy apps to the App Store and beta users over-the-air.",
+      "level": "Basic",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 8,
+      "title": "Machine Learning",
+      "shortDescription":
+        "Machine learning is the science of getting computers to act without being explicitly programmed",
+      "about":
+        "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.",
+      "level": "Basic",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 9,
+      "title": "Neural Networks and Deep Learning",
+      "shortDescription":
+        "Artificial neural networks or connectionist systems are computing systems vaguely inspired by the biological neural networks that constitute animal brains.",
+      "about":
+        "If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new 'superpower' that will let you build AI systems that just weren't possible a few years ago.",
+      "level": "Intermediate",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 10,
+      "title": "Structuring Machine Learning Projects",
+      "shortDescription":
+        "Machine learning is the science of getting computers to act without being explicitly programmed",
+      "about":
+        "You will learn how to build a successful machine learning project. If you aspire to be a  technical leader in AI, and know how to set direction for your team's work, this course will show you how.",
+      "level": "Intermediate",
+      "logo": "./images/glyphicon-education.png",
+      "price": 500,
+      "authorId": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Don",
+      "lastName": "Patterson",
+      "email": "patterson@education.com",
+      "qualification": "Masters"
+    },
+    {
+      "id": 2,
+      "firstName": "Jogesh K",
+      "lastName": "Muppala",
+      "email": "jogesh@education.com",
+      "qualification": "Masters"
+    },
+    {
+      "id": 3,
+      "firstName": "Andrew",
+      "lastName": "Ng",
+      "email": "ng@education.com",
+      "qualification": "Masters"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "userId": 1,
+      "rating": 5,
+      "comment": "Very helpful and useful."
+    }
+  ]
+}
